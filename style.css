@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+body{
+    background-color: aqua;
+    font-family: "Cookie";
+}
+header{
+    text-align: center;
+    background-color: beige;
+    padding: 10px;
+    box-shadow: 2px 3px 3px;
+    border-radius: 6px;
+}
+.inicio{
+    display: flex;
+    box-shadow: 2px 3px 3px;
+    background-color: rgb(216, 248, 218);
+    border-radius: 6px;
+}
+p{
+    font-size: xx-large;
+}
+.Salem{
+    font-size: x-large;
+}
+ol{
+    font-size: x-large;
+}
+ul{
+    font-size: x-large;
+}
+form{
+    font-size: x-large;
+    box-shadow: 2px 3px 3px;
+    background-color: rgb(216, 248, 218);
+    border-radius: 6px;
+    padding: 10px;
+}
+img{
+    border-radius: 20px;
+    padding: 10px;
+}
+.semana{
+    text-align: center;
+}
+.lista{
+    background-color:  rgb(216, 248, 218);
+    box-shadow: 2px 3px 3px;
+    border-radius: 6px;
+    padding: 10px;
+}
+table{
+    background-color: rgb(216, 248, 218);
+    border: solid 1px;
+    box-shadow: 2px 3px 3px;
+    padding: 10px;
+}
+td{
+    border: solid 1px;
+}
+th{
+    border: solid 1px;
+}
+footer{
+    background-color: beige;
+    text-align: center;
+    border-radius: 6px;
+    box-shadow: 2px 3px 3px;
+}
+button{
+    border-radius: 6px;
+}
+button:hover{
+    background-color: aqua;
+}
